@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="bg_main">#1C1C1E</color>
+
+    <color name="btn_number_bg">#333336</color>
+    <color name="btn_number_text">#FFFFFF</color>
+
+    <color name="btn_function_bg">#636366</color>
+    <color name="btn_function_text">#FFFFFF</color>
+
+    <color name="btn_operator_bg">#FF9F0A</color>
+    <color name="btn_operator_text">#FFFFFF</color>
+
+    <color name="btn_equals_bg">#FF9F0A</color>
+    <color name="btn_equals_text">#FFFFFF</color>
+
+    <color name="text_primary">#FFFFFF</color>
+    <color name="text_secondary">#8E8E93</color>
+</resources>
